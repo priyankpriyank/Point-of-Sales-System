@@ -1,7 +1,7 @@
 
 ### **4. Point of Sale System**
 <small>&copy; Priyank Vora-2024</small> 
-```markdown
+
 
 # Point of Sale System
 <hr>
