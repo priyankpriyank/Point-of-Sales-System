@@ -51,4 +51,4 @@ A powerful **Java-based POS system** with **MySQL integration**, designed to str
 ### Steps  
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/priyankpriyank/Point-of-Sales-System>
